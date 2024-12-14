@@ -31,4 +31,8 @@ def input_val():
 
     a = int(input(f"Enter the value one:"))
     b = int(input("Enter the value two:"))
+
+    c = int(input("Enter the value two:"))
     
+
+    # I am learning the git commands 
